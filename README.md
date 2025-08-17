@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Tableau Storytelling - Northwind Database Analysis
 
 ## 📊 Project Overview
@@ -111,15 +110,8 @@ This is a completed academic project showcasing Tableau storytelling capabilitie
 
 ## 📝 License
 
-This project is created for educational and demonstration purposes as a project for one of my bachelors courses
+This project is created for educational and demonstration purposes.
 
 ## 📞 Contact
 
 For questions about this Tableau storytelling project, please refer to the project documentation or create an issue in the repository.
-=======
-# Tableau-storytelling
-
-Tableau storytelling about Northwind Database-Jan 2020
-
-Analyzing and forecasting sales using data on the products, employees, orders, and region
->>>>>>> origin/main
