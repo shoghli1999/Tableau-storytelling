@@ -73,37 +73,53 @@ The project utilizes multiple tables from the **Northwind Database**:
 
 ## 📸 Tableau Dashboard Screenshots
 
-### Dashboard Overview
+### Page 1: Categories
 ![Tableau Dashboard 1](screenshots/Screenshot%202025-08-17%20153008.png)
-*Main dashboard overview showing key performance indicators and sales metrics*
+**Categories Analysis Dashboard**
 
-### Sales Analysis Visualizations
+The chart below shows the categories of products. Each category includes several items, and the table shows the average sales for each category. The pie chart shows the share of each category from total sales.
+
+### Page 2: Products and Categories
 ![Tableau Dashboard 2](screenshots/Screenshot%202025-08-17%20153045.png)
-*Sales performance analysis with category breakdowns and product rankings*
+**Products and Categories Dashboard**
 
-### Geographic Distribution
+The tables below are related to the products of the store. The first table shows the name of each product along with its category. The second table shows product information including quantity per unit, unit price, and units in stock.
+
+### Page 3: Products Above Average & Camembert Pierrot Sales
 ![Tableau Dashboard 3](screenshots/Screenshot%202025-08-17%20153203.png)
-*Interactive map showing geographic sales distribution and customer locations*
+**Products Above Average & Camembert Pierrot Sales Dashboard**
 
-### Product Performance Metrics
+The information below includes two charts and one table. The first table lists the products whose price is higher than the average. The second chart shows product sales. The third chart is related to Camembert Pierrot, showing its sales trend across different months (from April to October).
+
+### Page 4: Employees
 ![Tableau Dashboard 4](screenshots/Screenshot%202025-08-17%20153226.png)
-*Product performance analysis with pricing and quantity insights*
+**Employees Dashboard**
 
-### Customer Analysis Dashboard
+The table below shows all employees of the Northwind store, along with their phone numbers, addresses, job titles, and the territories under their supervision.
+
+### Page 5: Products Freight and Map
 ![Tableau Dashboard 5](screenshots/Screenshot%202025-08-17%20153245.png)
-*Customer insights dashboard highlighting top performers and purchase patterns*
+**Products Freight and Map Dashboard**
 
-### Employee Performance Tracking
+The chart and map below are related to freight costs. The bar chart shows the shipping cost for each product. The map shows the geographical distribution of products along with their shipping cost.
+
+### Page 6: Suppliers, Customers, and City Sales
 ![Tableau Dashboard 6](screenshots/Screenshot%202025-08-17%20153304.png)
-*Employee performance metrics and territory assignments*
+**Suppliers, Customers, and City Sales Dashboard**
 
-### Advanced Analytics
+The chart and table below show supplier and customer information. The scatter map shows the location of suppliers and customers. The table on the right shows sales quantities by city. The cities of Cunewalde, Boise, Graz, and Walla have the highest sales compared to other cities.
+
+### Page 7: Company Sales & QUICK-Stop Sales
 ![Tableau Dashboard 7](screenshots/Screenshot%202025-08-17%20153322.png)
-*Advanced analytics dashboard with forecasting and trend analysis*
+**Company Sales & QUICK-Stop Sales Dashboard**
 
-### Executive Summary
+The bar chart below shows company sales. QUICK-Stop has the highest sales among companies. The area chart shows QUICK-Stop's sales trend, with the highest sales in October and the lowest in July.
+
+### Page 8: Best Customers
 ![Tableau Dashboard 8](screenshots/Screenshot%202025-08-17%20153340.png)
-*Executive summary dashboard with key business intelligence insights*
+**Best Customers Dashboard**
+
+The tables and charts below show the best customers of the store. The left side shows customer ID, city, and purchase quantities over time. The right table shows which products were purchased most frequently by these top customers. The three best customers are SAVEA, ERNSH, and QUICK.
 
 ## 🛠️ Technical Details
 
