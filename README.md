@@ -24,6 +24,7 @@ Tableau-storytelling-main/
 ├── finalProject.hyper                      # Tableau extract file
 ├── README.md                               # Project documentation
 ├── README_original.md                      # Original README backup
+├── screenshots/                            # Tableau dashboard screenshots
 └── [Various .hyper files]                  # Individual data extracts
 ```
 
@@ -69,6 +70,40 @@ The project utilizes multiple tables from the **Northwind Database**:
 ### 🏪 Specific Company Analysis
 - **Camembert Pierrot Sales** - Detailed customer analysis
 - **QUICK-Stop Sales Performance** - Key account insights
+
+## 📸 Tableau Dashboard Screenshots
+
+### Dashboard Overview
+![Tableau Dashboard 1](screenshots/Screenshot%202025-08-17%20153008.png)
+*Main dashboard overview showing key performance indicators and sales metrics*
+
+### Sales Analysis Visualizations
+![Tableau Dashboard 2](screenshots/Screenshot%202025-08-17%20153045.png)
+*Sales performance analysis with category breakdowns and product rankings*
+
+### Geographic Distribution
+![Tableau Dashboard 3](screenshots/Screenshot%202025-08-17%20153203.png)
+*Interactive map showing geographic sales distribution and customer locations*
+
+### Product Performance Metrics
+![Tableau Dashboard 4](screenshots/Screenshot%202025-08-17%20153226.png)
+*Product performance analysis with pricing and quantity insights*
+
+### Customer Analysis Dashboard
+![Tableau Dashboard 5](screenshots/Screenshot%202025-08-17%20153245.png)
+*Customer insights dashboard highlighting top performers and purchase patterns*
+
+### Employee Performance Tracking
+![Tableau Dashboard 6](screenshots/Screenshot%202025-08-17%20153304.png)
+*Employee performance metrics and territory assignments*
+
+### Advanced Analytics
+![Tableau Dashboard 7](screenshots/Screenshot%202025-08-17%20153322.png)
+*Advanced analytics dashboard with forecasting and trend analysis*
+
+### Executive Summary
+![Tableau Dashboard 8](screenshots/Screenshot%202025-08-17%20153340.png)
+*Executive summary dashboard with key business intelligence insights*
 
 ## 🛠️ Technical Details
 
